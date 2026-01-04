@@ -2,11 +2,7 @@
 <h3 align="center">BE Computer Science & Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=AI+%26+Edge+AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Future+Software+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Balachandransakthivel&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Edge+AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 ---
@@ -14,7 +10,7 @@
 ## 👨‍💻 About Me
 🎓 BE **Computer Science & Engineering**  
 🏫 Excel Engineering College (Autonomous)  
-🤖 Interested in **AI, Edge AI & Autonomous Systems**  
+🤖 Interested in **AI, Edge AI & Intelligent Systems**  
 🌐 Full Stack Web Developer  
 📚 Certified in **Python (TCS iON)** & **DBMS (NPTEL)**  
 
@@ -25,8 +21,11 @@
   <a href="https://github.com/Balachandransakthivel">
     <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/bala-chandran-56992a292">
+  <a href="https://www.linkedin.com/in/balas111005">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/_im__bala__/">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white"/>
   </a>
 </p>
 
@@ -53,35 +52,33 @@
 
 ---
 
-## 🔥 Featured Projects
-🚗 **Edge AI for Driver Behavior Prediction**  
-🚕 **Event-Based Ride Matching System**  
-🧠 **Mental Health AI Assistant**  
-🎓 **College Utility Application**  
+## 🔥 Projects
+1️⃣ **Cafe Software**  
+2️⃣ **React Text To Speech App**  
+3️⃣ **LevelUp AI**  
 
 ---
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Balachandransakthivel&theme=darkhub&no-frame=true&row=1"/>
-</p>
+## 🌐 Portfolio & Resume
+🔗 **Portfolio:** https://balachandran-portfolio.netlify.app/  
+📄 **Resume:** https://drive.google.com/file/d/1z3Tc1QnWLP6F_Qq5nQsXwVqwNy1r8iEZ/view  
 
 ---
 
-## 📫 Contact
-📧 Email: *(add your email)*  
-🌐 Portfolio: *Coming Soon*  
+## 📫 Contact Me
+📧 Email: **balas111005@gmaiil.com**  
+📱 Phone: **9342727360**  
 
 ---
 
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
+  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
 </p>
