@@ -2,15 +2,14 @@
 <h3 align="center">BE Computer Science & Engineering Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+%26+Edge+AI+Enthusiast;Full+Stack+Developer;Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;Future+Software+Engineer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 🎓 BE **Computer Science & Engineering**  
-🏫 Excel Engineering College (Autonomous)  
-🤖 Interested in **AI, Edge AI & Intelligent Systems**  
+🏫 Excel Engineering College (Autonomous)   
 🌐 Full Stack Web Developer  
 📚 Certified in **Python (TCS iON)** & **DBMS (NPTEL)**  
 
@@ -57,13 +56,6 @@
 2️⃣ **React Text To Speech App**  
 3️⃣ **LevelUp AI**  
 
----
-
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight" height="170"/>
-</p>
 
 ---
 
