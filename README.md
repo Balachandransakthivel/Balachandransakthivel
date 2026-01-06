@@ -11,7 +11,6 @@
 🎓 BE **Computer Science & Engineering**  
 🏫 Excel Engineering College (Autonomous)   
 🌐 Full Stack Web Developer  
-📚 Certified in **Python (TCS iON)** & **DBMS (NPTEL)**  
 
 ---
 
