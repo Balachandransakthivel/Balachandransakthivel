@@ -31,7 +31,7 @@
 
 ## 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
 </p>
 
 ---
