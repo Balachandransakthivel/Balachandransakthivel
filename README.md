@@ -59,7 +59,7 @@
 ---
 
 ## 🌐 Portfolio & Resume
-🔗 **Portfolio:** https://balachandran-portfolio.netlify.app/  
+🔗 **Portfolio:** https://bala-s-portfolio.vercel.app/  
 📄 **Resume:** https://drive.google.com/file/d/1z3Tc1QnWLP6F_Qq5nQsXwVqwNy1r8iEZ/view  
 
 ---
