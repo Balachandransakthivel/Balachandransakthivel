@@ -130,21 +130,41 @@ Features include
 - Medicine Stock Forecasting
 
 ---
+---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Balachandransakthivel&theme=tokyonight"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balachandransakthivel&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balachandransakthivel&theme=tokyonight&utcOffset=5.5" />
 </p>
 
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Balachandransakthivel&theme=tokyonight" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Balachandransakthivel&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balachandransakthivel&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
 ---
 
 # 🌐 Connect With Me
