@@ -1,75 +1,200 @@
-<h1 align="center">Hi 👋 I'm Bala</h1>
-<h3 align="center">BE Computer Science & Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Balachandran S</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer • AI Enthusiast • Computer Science Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Problem+Solver;Future+Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;Building+AI+Powered+Applications;Open+Source+Learner;Future+Software+Engineer" />
+</p>
+
+<p align="center">
+<a href="https://im-bala-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-0A66C2?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/balas111005">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Balachandransakthivel">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="mailto:balas111005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
-🎓 BE **Computer Science & Engineering**  
-🏫 Excel Engineering College (Autonomous)   
-🌐 Full Stack Web Developer  
+# 👨‍💻 About Me
+
+🎓 Final Year **B.E. Computer Science & Engineering** Student
+
+🏫 Excel Engineering College (Autonomous)
+
+💻 Passionate about building scalable Web Applications and AI-powered solutions.
+
+🌱 Currently learning
+
+- Advanced React
+- Node.js
+- TypeScript
+- Full Stack Development
+- AI Integration
+
+🎯 Career Goal
+
+Become a Software Engineer specializing in Full Stack Development and Artificial Intelligence.
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css"/>
+</p>
+
+## ⚡ Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs"/>
+</p>
+
+## 🛠 Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,supabase,mysql"/>
+</p>
+
+## ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🍽️ Cafe Software
+
+Smart restaurant billing and management system with dashboard, menu management, billing, inventory, analytics and authentication.
+
+**Tech**
+
+React • TypeScript • Tailwind CSS • Supabase • Vite
+
+---
+
+## 🧠 LevelUp AI
+
+AI-powered learning platform that helps users improve skills through personalized learning experiences.
+
+**Tech**
+
+React • TypeScript • AI APIs • Tailwind CSS
+
+---
+
+## ❤️ MindEase
+
+AI Mental Health Assistant providing emotional support, wellness tracking and AI-powered conversations.
+
+**Tech**
+
+React • Node.js • AI • MongoDB
+
+---
+
+## 🏥 MediQ AI
+
+Intelligent Hospital Queue & Resource Management System using Artificial Intelligence.
+
+Features include
+
+- Waiting Time Prediction
+- Doctor Schedule Optimization
+- Emergency Prioritization
+- Bed Availability Prediction
+- Medicine Stock Forecasting
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Balachandransakthivel&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://github.com/Balachandransakthivel">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/balas111005">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_im__bala__/">
-    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white"/>
-  </a>
+
+<a href="https://im-bala-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+</a>
+
+<a href="https://www.linkedin.com/in/balas111005">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Balachandransakthivel">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.instagram.com/_im__bala__/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:balas111005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js" />
-</p>
+# 📄 Resume
+
+📄 Resume
+
+https://drive.google.com/file/d/1z3Tc1QnWLP6F_Qq5nQsXwVqwNy1r8iEZ/view
 
 ---
 
-## 🌐 Frameworks & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,mysql" />
-</p>
+# 💬 Quote
 
----
-
-## 🛠 Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,netlify" />
-</p>
-
----
-
-## 🔥 Projects
-1️⃣ **Cafe Software**  
-2️⃣ **React Text To Speech App**  
-3️⃣ **LevelUp AI**  
-
-
----
-
-## 🌐 Portfolio & Resume
-🔗 **Portfolio:** https://bala-s-portfolio.vercel.app/  
-📄 **Resume:** https://drive.google.com/file/d/1z3Tc1QnWLP6F_Qq5nQsXwVqwNy1r8iEZ/view  
-
----
-
-## 📫 Contact Me
-📧 Email: **balas111005@gmaiil.com**  
-📱 Phone: **9342727360**  
+> "Keep Learning. Keep Building. Keep Growing."
 
 ---
 
 <p align="center">
-  ⭐ <b>Thanks for visiting my GitHub profile!</b> ⭐
+
+<img src="https://komarev.com/ghpvc/?username=Balachandransakthivel&label=Profile+Views&color=0e75b6&style=flat"/>
+
+</p>
+
+<p align="center">
+⭐ If you like my work, consider giving a star to my repositories!
 </p>
