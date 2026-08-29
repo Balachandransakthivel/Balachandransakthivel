@@ -1,183 +1,204 @@
 <div align="center">
 
-<img src="./assets/hero/hero-3d.png" width="100%" alt="Balachandran 3D Developer Hero"/>
+<!-- 🌌 ANIMATED HERO -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00C2FF&height=230&section=header&text=BALACHANDRAN%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20CSE%20ENGINEER&descAlignY=58&descSize=17&descColor=7DD3FC" width="100%"/>
 
 <br>
 
-# BALACHANDRAN S
+<!-- 🤖 3D / CARTOON CHARACTER -->
 
-### FULL STACK DEVELOPER × AI BUILDER
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Building+Digital+Products;Turning+Ideas+Into+Code;Full+Stack+%2B+AI;Creating+Real+World+Solutions;Always+Learning.+Always+Building." />
+<img src="./assets/developer-3d.gif" width="260" alt="3D Developer Character"/>
 
 <br>
 
-<a href="https://im-bala-portfolio.vercel.app"> <img src="https://img.shields.io/badge/PORTFOLIO-00D9FF?style=for-the-badge"/> </a>
+<h1>Hi 👋, I'm Balachandran S</h1>
 
-<a href="https://www.linkedin.com/in/balas111005"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
+<h3>
+🚀 Full Stack Developer • 🤖 AI Enthusiast • 💻 CSE Engineer
+</h3>
 
-<a href="https://github.com/Balachandransakthivel"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github"/> </a>
+<p>
+Building modern web applications, AI-powered solutions and beautiful user experiences.
+</p>
 
-</div>
+<!-- ⌨️ TYPING ANIMATION -->
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=900&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+TypeScript;AI+Powered+Application+Builder;UI%2FUX+Enthusiast;Cloud+%26+Modern+Web+Technologies;Future+Software+Engineer" />
 
-<img src="./assets/characters/developer.png" width="280" alt="Developer Cartoon Character"/>
+<br><br>
 
-## WHO AM I?
+<!-- 🔗 SOCIAL LINKS -->
 
-I'm Balachandran 👋
+<a href="https://im-bala-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-00C2FF?style=for-the-badge&logoColor=white"/>
+</a>
 
-**Final Year B.E. Computer Science & Engineering Student**
-**Excel Engineering College (Autonomous)**
+<a href="https://www.linkedin.com/in/balas111005">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-I build modern web applications and AI-powered solutions
-that solve real-world problems.
+<a href="https://github.com/Balachandransakthivel">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-</div>
-
-<br>
-
-```
-┌────────────────────────────────────────────────────────────┐
-│                                                            │
-│   THINK        DESIGN        BUILD        IMPROVE          │
-│      ↓            ↓            ↓             ↓             │
-│                                                            │
-│     IDEA  ──────►  PRODUCT  ──────►  IMPACT 🚀             │
-│                                                            │
-└────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 01 — MY DIGITAL WORLD
-
-<div align="center">
-
-<img src="./assets/animations/coding.gif" width="240" alt="Coding Animation"/>
-
-<br>
-
-| Category | Technologies |
-|----------|-------------|
-| ⚛️ **FRONTEND** | React · Next.js · TypeScript · Tailwind CSS |
-| ⚙️ **BACKEND** | Node.js · Express.js · REST APIs |
-| 🤖 **AI** | AI APIs · AI Integration · Prediction · Automation |
-| 🗄️ **DATABASE** | MongoDB · PostgreSQL · MySQL · Supabase |
-| ☁️ **CLOUD** | Vercel · Netlify · Supabase · GitHub |
+<a href="mailto:balas111005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 02 — CURRENTLY BUILDING
+# 👨‍💻 About Me
 
-<div align="center">
+<img align="right" src="./assets/coding-character.gif" width="280" alt="Coding Developer Animation"/>
 
-<img src="./assets/characters/developer-ai.png" width="250" alt="AI Developer Cartoon"/>
+🎓 **Final Year B.E. Computer Science & Engineering Student**
 
-### 🤖 AI × SOFTWARE
+🏫 **Excel Engineering College (Autonomous)**
 
-I'm exploring how Artificial Intelligence can become
-a practical part of everyday software.
+💻 Passionate about building **scalable web applications, AI-powered systems and modern digital experiences.**
 
-</div>
+🚀 I enjoy turning ideas into real-world products using modern technologies.
 
-```
-             USER
-               │
-               ▼
-        ┌──────────────┐
-        │   WEB APP    │
-        └──────┬───────┘
-               │
-               ▼
-        ┌──────────────┐
-        │  AI ENGINE   │
-        └──────┬───────┘
-               │
-       ┌───────┼────────┐
-       ▼       ▼        ▼
-   Prediction  AI      Automation
-               │
-               ▼
-        Better Experience
-```
+### ⚡ What I Do
 
-**Areas I'm exploring:**
-- 🧠 Intelligent applications
-- 💬 AI assistants
-- 📊 Prediction systems
-- 🎯 Recommendation systems
-- ⚡ AI automation
-- 🔌 AI API integration
+- 🌐 Full Stack Web Development
+- 🤖 AI Application Development
+- 🎨 UI/UX Design
+- 📱 Application Development
+- ☁️ Cloud & Deployment
+- 🔌 API Development
+- 🗄️ Database Design
+
+### 🎯 Career Goal
+
+Become a **Software Engineer** specializing in:
+
+`Full Stack Development` + `Artificial Intelligence`
+
+<br clear="right"/>
 
 ---
 
-## 03 — SELECTED WORK
+# 🧠 Currently Learning
 
 <div align="center">
 
-<img src="./assets/projects/cafe-pro.png" width="90%" alt="Cafe Pro"/>
-
-### 🍽️ CAFE PRO
-**Smart Cafe Billing & Management Platform**
+| 🚀 Area | 📚 Focus |
+|---|---|
+| ⚛️ Frontend | React • Next.js • TypeScript |
+| 🟢 Backend | Node.js • Express • REST APIs |
+| 🤖 AI | AI APIs • AI Integration • Intelligent Applications |
+| ☁️ Cloud | Deployment • Cloud Services |
+| 🎨 Design | Figma • UI/UX |
+| 🗄️ Database | MongoDB • PostgreSQL • Supabase |
 
 </div>
-
-A modern restaurant management platform designed to simplify
-billing, ordering, inventory and business analytics.
-
-**What it does:** Smart Billing · QR Ordering · Inventory · Analytics · Authentication · Menu Management · Order Tracking
-
-**Built with:** React · TypeScript · Tailwind CSS · Supabase · Vite
 
 ---
 
-<div align="center">
+# 🛠️ Tech Stack
 
-<img src="./assets/projects/levelup-ai.png" width="90%" alt="LevelUp AI"/>
+## 💻 Programming Languages
 
-### 🧠 LEVELUP AI
-**Personalized AI Learning Platform**
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts&perline=5"/>
+</p>
 
-</div>
+## ⚛️ Frontend Development
 
-An AI-powered learning platform designed to provide
-personalized learning experiences.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind&perline=6"/>
+</p>
 
-```
-USER
- ↓
-SKILL ANALYSIS
- ↓
-AI RECOMMENDATION
- ↓
-PERSONALIZED LEARNING
- ↓
-PROGRESS TRACKING
- ↓
-SKILL IMPROVEMENT 🚀
-```
+## 🟢 Backend Development
 
-**Built with:** React · TypeScript · AI APIs · Tailwind CSS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=5"/>
+</p>
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=6"/>
+</p>
+
+## ☁️ Tools & Platforms
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&perline=7"/>
+</p>
 
 ---
 
-<div align="center">
+# 🚀 Featured Projects
 
-<img src="./assets/projects/mediq-ai.png" width="90%" alt="MediQ AI"/>
+## 🍽️ Cafe Pro — Smart Cafe Billing System
 
-### 🏥 MEDIQ AI
-**Intelligent Hospital Queue & Resource Management**
+> A modern restaurant management and billing platform designed for Indian food cafés.
 
-</div>
+### ✨ Features
 
-An AI-powered hospital management solution focused on
-patient flow and resource optimization.
+- 🧾 Smart Billing
+- 🍴 Menu Management
+- 📦 Inventory Tracking
+- 📊 Sales Analytics
+- 🔐 Authentication
+- 📱 QR Table Ordering
+- 👨‍🍳 Chef Order Management
+- 💳 Digital Payment Support
+- 🤖 AI Demand Prediction
 
-**AI capabilities:**
+**Tech Stack**
+
+`React` `TypeScript` `Tailwind CSS` `Supabase` `Vite`
+
+---
+
+## 🧠 LevelUp AI
+
+> AI-powered learning platform designed to provide personalized learning experiences.
+
+### ✨ Features
+
+- 🤖 AI-powered learning
+- 📚 Personalized recommendations
+- 📈 Progress tracking
+- 🧠 Skill improvement
+- 🎯 Learning analytics
+
+**Tech Stack**
+
+`React` `TypeScript` `AI APIs` `Tailwind CSS`
+
+---
+
+## ❤️ MindEase
+
+> AI-powered wellness assistant designed for supportive conversations and personal wellness tracking.
+
+### ✨ Features
+
+- 💬 AI conversations
+- 📊 Wellness tracking
+- 🧠 Personalized interactions
+- 🔐 User authentication
+- 📈 Progress monitoring
+
+**Tech Stack**
+
+`React` `Node.js` `AI` `MongoDB`
+
+---
+
+## 🏥 MediQ AI
+
+> Intelligent hospital queue and resource management platform using AI.
+
+### 🤖 AI Features
+
 - ⏱️ Waiting Time Prediction
 - 👨‍⚕️ Doctor Schedule Optimization
 - 🚨 Emergency Prioritization
@@ -185,246 +206,78 @@ patient flow and resource optimization.
 - 💊 Medicine Stock Forecasting
 - 📊 Hospital Analytics
 
-**Built with:** React · Node.js · AI · MongoDB
+**Tech Stack**
+
+`React` `Node.js` `AI` `MongoDB`
 
 ---
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="./assets/projects/mindease.png" width="90%" alt="MindEase"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-### ❤️ MINDEASE
-**AI Wellness Assistant**
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Balachandransakthivel&theme=tokyonight&hide_border=true"/>
 
 </div>
-
-A conversational AI application designed around
-supportive interactions and personal wellness tracking.
-
-**Features:** AI Conversations · Wellness Tracking · Personalized Interaction · Progress Monitoring
-
-**Built with:** React · Node.js · AI · MongoDB
-
----
-
-## 04 — TECH UNIVERSE
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,html,css&perline=7"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,nodejs,express&perline=6"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=4"/>
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,vercel&perline=7"/>
-
-</div>
-
----
-
-## 05 — HOW I BUILD
-
-<div align="center">
-
-<img src="./assets/animations/coding.gif" width="220" alt="Developer Coding"/>
-
-```
-        💡 IDEA
-           │
-           ▼
-       🔍 RESEARCH
-           │
-           ▼
-       🎨 DESIGN
-           │
-           ▼
-       💻 DEVELOP
-           │
-           ▼
-       🧪 TEST
-           │
-           ▼
-       ⚡ IMPROVE
-           │
-           ▼
-       🚀 DEPLOY
-           │
-           ▼
-       🌍 IMPACT
-```
-
-</div>
-
----
-
-## 06 — GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balachandransakthivel&theme=tokyonight&hide_border=true" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%"/>
-
-</div>
-
----
-
-## 07 — CONTRIBUTION MODE
-
-<div align="center">
-
-<img src="./assets/animations/rocket.gif" width="150" alt="Rocket Animation"/>
-
-### CODE → COMMIT → CREATE → REPEAT
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Balachandransakthivel&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balachandransakthivel&theme=tokyonight&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-## 08 — DEVELOPER JOURNEY
+# 🧊 3D GitHub Contribution
 
 <div align="center">
 
-```
-              2021
-                │
-                ▼
-        🌱 STARTED CODING
-                │
-                ▼
-              2022
-                │
-                ▼
-        🌐 WEB DEVELOPMENT
-                │
-                ▼
-              2023
-                │
-                ▼
-       ⚛️ REACT + FULL STACK
-                │
-                ▼
-              2024
-                │
-                ▼
-          🤖 AI EXPLORATION
-                │
-                ▼
-              2025
-                │
-                ▼
-       🚀 REAL WORLD PROJECTS
-                │
-                ▼
-              2026
-                │
-                ▼
-       🎓 FINAL YEAR CSE
-                │
-                ▼
-        💼 SOFTWARE ENGINEER
-```
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Graph"/>
 
 </div>
 
 ---
 
-## 09 — BEYOND CODE
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="./assets/characters/developer.png" width="220" alt="Developer Character"/>
-
-<br>
-
-🎨 **DESIGN** — Creating clean and modern user interfaces.
-
-🧠 **PROBLEM SOLVING** — Breaking complex problems into simple solutions.
-
-🤖 **INNOVATION** — Exploring AI and emerging technologies.
-
-📚 **LEARNING** — Constantly improving my technical skills.
-
-🚀 **BUILDING** — Turning ideas into real products.
+<img src="https://raw.githubusercontent.com/Balachandransakthivel/Balachandransakthivel/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
 ---
 
-## 10 — WHAT'S NEXT?
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-### CURRENT MISSION
-
-```
-BUILD + LEARN + EXPERIMENT + CREATE = GROW 🚀
-```
-
-<br>
-
-### 🎯 2026 GOALS
-
-- Build impactful software
-- Master Full Stack Development
-- Explore Advanced AI
-- Contribute to Open Source
-- Become a Software Engineer
+<img src="https://github-profile-trophy.vercel.app/?username=Balachandransakthivel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
-## 11 — LET'S BUILD SOMETHING
+# 📈 My Developer Journey
 
-<div align="center">
-
-<img src="./assets/characters/developer.png" width="260" alt="Developer Character"/>
-
-<br>
-
-### HAVE AN IDEA?
-### LET'S TURN IT INTO A PRODUCT. 🚀
-
-<br>
-
-<a href="https://im-bala-portfolio.vercel.app"> <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-EXPLORE-00C2FF?style=for-the-badge"/> </a>
-
-<a href="https://www.linkedin.com/in/balas111005"> <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/> </a>
-
-<a href="mailto:balas111005@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/> </a>
-
-<br><br>
-
-<a href="https://drive.google.com/file/d/1z3Tc1QnWLP6F_Qq5nQsXwVqwNy1r8iEZ/view"> <img src="https://img.shields.io/badge/📄%20RESUME-VIEW-111827?style=for-the-badge"/> </a>
-
-</div>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Balachandransakthivel&label=PROFILE%20VISITORS&color=00C2FF&style=for-the-badge"/>
-
-<br><br>
-
-### BUILDING TODAY. ENGINEERING TOMORROW.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C2FF,50:111827,100:050816&section=footer&animation=twinkling"/>
-
-</div>
+```text
+2021 ─────── Started Programming
+   │
+2022 ─────── Web Development
+   │
+2023 ─────── React & Full Stack Development
+   │
+2024 ─────── AI & Modern Application Development
+   │
+2025 ─────── Advanced Projects & Internships
+   │
+2026 ─────── Final Year • Projects • Career 🚀
+   │
+   ▼
+Software Engineer
