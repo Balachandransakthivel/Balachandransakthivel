@@ -2,13 +2,7 @@
 
 <!-- 🌌 ANIMATED HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:00C2FF&height=230&section=header&text=BALACHANDRAN%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST%20%7C%20CSE%20ENGINEER&descAlignY=58&descSize=17&descColor=7DD3FC" width="100%"/>
-
-<br>
-
-<!-- 🤖 3D / CARTOON CHARACTER -->
-
-<img src="./assets/developer-3d.gif" width="260" alt="3D Developer Character"/>
+<img src="./assets/hero/hero-3d.gif" width="100%" alt="Balachandran 3D Developer Hero"/>
 
 <br>
 
@@ -52,7 +46,7 @@ Building modern web applications, AI-powered solutions and beautiful user experi
 
 # 👨‍💻 About Me
 
-<img align="right" src="./assets/coding-character.gif" width="280" alt="Coding Developer Animation"/>
+<img align="right" src="./assets/characters/developer-coding.png" width="280" alt="Balachandran Coding"/>
 
 🎓 **Final Year B.E. Computer Science & Engineering Student**
 
@@ -137,6 +131,8 @@ Become a **Software Engineer** specializing in:
 
 ## 🍽️ Cafe Pro — Smart Cafe Billing System
 
+<img src="./assets/projects/cafe-pro.png" width="90%" alt="Cafe Pro Dashboard"/>
+
 > A modern restaurant management and billing platform designed for Indian food cafés.
 
 ### ✨ Features
@@ -159,6 +155,8 @@ Become a **Software Engineer** specializing in:
 
 ## 🧠 LevelUp AI
 
+<img src="./assets/projects/levelup-ai.png" width="90%" alt="LevelUp AI Dashboard"/>
+
 > AI-powered learning platform designed to provide personalized learning experiences.
 
 ### ✨ Features
@@ -177,6 +175,8 @@ Become a **Software Engineer** specializing in:
 
 ## ❤️ MindEase
 
+<img src="./assets/projects/mindease.png" width="90%" alt="MindEase Dashboard"/>
+
 > AI-powered wellness assistant designed for supportive conversations and personal wellness tracking.
 
 ### ✨ Features
@@ -194,6 +194,8 @@ Become a **Software Engineer** specializing in:
 ---
 
 ## 🏥 MediQ AI
+
+<img src="./assets/projects/mediq-ai.png" width="90%" alt="MediQ AI Dashboard"/>
 
 > Intelligent hospital queue and resource management platform using AI.
 
@@ -281,3 +283,29 @@ Become a **Software Engineer** specializing in:
    │
    ▼
 Software Engineer
+
+---
+
+# 🎭 Developer Vibes
+
+<div align="center">
+
+<img src="./assets/characters/developer.png" width="200" alt="Balachandran Developer"/>
+<img src="./assets/characters/developer-ai.png" width="200" alt="Balachandran AI"/>
+<img src="./assets/characters/developer-thinking.png" width="200" alt="Balachandran Thinking"/>
+
+</div>
+
+---
+
+# 🚀 Footer
+
+<div align="center">
+
+<img src="./assets/animations/rocket.gif" width="220" alt="Rocket Launch"/>
+
+**Building Today. Engineering Tomorrow.**
+
+<img src="./assets/animations/coding.gif" width="180" alt="Coding"/>
+
+</div>
