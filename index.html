@@ -3,104 +3,257 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Balachandran Sakthivel - Portfolio</title>
+    <title>Balachandran S - Portfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
 </head>
 <body>
-    <!-- Navigation -->
+    <canvas id="particles"></canvas>
+
     <nav class="navbar">
         <div class="container">
-            <div class="logo">BS</div>
+            <div class="logo">&lt;BS/&gt;</div>
             <ul class="nav-links">
                 <li><a href="#home">Home</a></li>
                 <li><a href="#about">About</a></li>
+                <li><a href="#skills">Skills</a></li>
                 <li><a href="#projects">Projects</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
         </div>
     </nav>
 
-    <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="container hero-content">
             <div class="hero-text">
-                <h1>Hi, I'm <span class="highlight">Balachandran</span></h1>
-                <p class="subtitle">Full-stack Developer | Creative Problem Solver</p>
-                <p class="description">Crafting digital experiences with clean code and innovative design</p>
-                <button class="cta-btn">Get In Touch</button>
+                <p class="greeting">Hello, I'm</p>
+                <h1>Balachandran <span class="highlight">S</span></h1>
+                <h2 class="typing-line"><span id="typing"></span><span class="cursor">|</span></h2>
+                <p class="description">Building modern web applications, AI-powered solutions and beautiful user experiences.</p>
+                <div class="hero-buttons">
+                    <a href="#projects" class="btn btn-primary">View Projects</a>
+                    <a href="#contact" class="btn btn-outline">Get In Touch</a>
+                </div>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">4+</span>
+                        <span class="stat-label">Projects</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">6+</span>
+                        <span class="stat-label">Technologies</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">3+</span>
+                        <span class="stat-label">AI Projects</span>
+                    </div>
+                </div>
             </div>
-            <div class="hero-image">
-                <img src="assets/characters/developer-focused.png" alt="Developer Focus" class="character-hero">
+            <div class="hero-visual">
+                <div class="code-window">
+                    <div class="window-header">
+                        <span class="dot red"></span>
+                        <span class="dot yellow"></span>
+                        <span class="dot green"></span>
+                        <span class="window-title">developer.ts</span>
+                    </div>
+                    <div class="code-content">
+                        <pre><code><span class="kw">const</span> <span class="var">developer</span> = {
+  <span class="prop">name</span>: <span class="str">"Balachandran S"</span>,
+  <span class="prop">role</span>: <span class="str">"Full Stack Developer"</span>,
+  <span class="prop">skills</span>: [<span class="str">"React"</span>, <span class="str">"Node.js"</span>, <span class="str">"AI"</span>],
+  <span class="prop">passion</span>: <span class="str">"Building the future"</span>,
+  <span class="fn">code</span>: () =&gt; <span class="str">"Always learning"</span>
+};</code></pre>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
 
-    <!-- About Section -->
     <section id="about" class="about">
         <div class="container">
-            <h2>About Me</h2>
-            <div class="about-grid">
-                <div class="about-card">
-                    <img src="assets/characters/developer-coding.png" alt="Coding">
-                    <h3>Development</h3>
-                    <p>Building scalable applications with modern tech stacks and best practices</p>
+            <h2 class="section-title reveal">About Me</h2>
+            <div class="about-content reveal">
+                <div class="about-text">
+                    <p>Final Year <strong>B.E. Computer Science & Engineering</strong> student at Excel Engineering College (Autonomous).</p>
+                    <p>Passionate about building <strong>scalable web applications</strong>, <strong>AI-powered systems</strong> and modern digital experiences.</p>
+                    <p>I enjoy turning ideas into real-world products using modern technologies.</p>
                 </div>
-                <div class="about-card">
-                    <img src="assets/characters/developer-thinking.png" alt="Thinking">
-                    <h3>Design</h3>
-                    <p>Creating intuitive user experiences that solve real problems</p>
-                </div>
-                <div class="about-card">
-                    <img src="assets/characters/developer-idea.png" alt="Innovation">
-                    <h3>Innovation</h3>
-                    <p>Exploring new technologies and implementing cutting-edge solutions</p>
+                <div class="about-cards">
+                    <div class="about-card reveal">
+                        <div class="card-icon">{ }</div>
+                        <h3>Development</h3>
+                        <p>Building scalable applications with modern tech stacks and best practices</p>
+                    </div>
+                    <div class="about-card reveal">
+                        <div class="card-icon">&lt;/&gt;</div>
+                        <h3>Design</h3>
+                        <p>Creating intuitive user experiences that solve real problems</p>
+                    </div>
+                    <div class="about-card reveal">
+                        <div class="card-icon">AI</div>
+                        <h3>Innovation</h3>
+                        <p>Exploring new technologies and implementing cutting-edge solutions</p>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Projects Section -->
+    <section id="skills" class="skills">
+        <div class="container">
+            <h2 class="section-title reveal">Tech Stack</h2>
+            <div class="skills-grid reveal">
+                <div class="skill-category">
+                    <h3>Languages</h3>
+                    <div class="skill-tags">
+                        <span class="tag">Python</span>
+                        <span class="tag">JavaScript</span>
+                        <span class="tag">TypeScript</span>
+                        <span class="tag">Java</span>
+                        <span class="tag">C++</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Frontend</h3>
+                    <div class="skill-tags">
+                        <span class="tag">React</span>
+                        <span class="tag">Next.js</span>
+                        <span class="tag">HTML/CSS</span>
+                        <span class="tag">Tailwind</span>
+                        <span class="tag">Vite</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Backend</h3>
+                    <div class="skill-tags">
+                        <span class="tag">Node.js</span>
+                        <span class="tag">Express</span>
+                        <span class="tag">FastAPI</span>
+                        <span class="tag">REST APIs</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>Database</h3>
+                    <div class="skill-tags">
+                        <span class="tag">MongoDB</span>
+                        <span class="tag">PostgreSQL</span>
+                        <span class="tag">Supabase</span>
+                        <span class="tag">MySQL</span>
+                    </div>
+                </div>
+                <div class="skill-category">
+                    <h3>AI / Tools</h3>
+                    <div class="skill-tags">
+                        <span class="tag">AI APIs</span>
+                        <span class="tag">Git</span>
+                        <span class="tag">Figma</span>
+                        <span class="tag">Vercel</span>
+                        <span class="tag">Postman</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
     <section id="projects" class="projects">
         <div class="container">
-            <h2>Featured Projects</h2>
+            <h2 class="section-title reveal">Featured Projects</h2>
             <div class="projects-grid">
-                <div class="project-card">
-                    <img src="assets/projects/levelup-ai.png" alt="LevelUp AI">
-                    <h3>LevelUp AI</h3>
-                    <p>An intelligent learning platform powered by AI</p>
+                <div class="project-card reveal">
+                    <div class="project-header cafe">
+                        <span class="project-icon">&#9749;</span>
+                    </div>
+                    <div class="project-body">
+                        <h3>Cafe Pro</h3>
+                        <p>Smart cafe billing system with menu management, inventory tracking, AI demand prediction and digital payments.</p>
+                        <div class="project-tech">
+                            <span>React</span>
+                            <span>TypeScript</span>
+                            <span>Supabase</span>
+                            <span>Vite</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="project-card">
-                    <img src="assets/projects/cafe-pro.png" alt="Cafe Pro">
-                    <h3>Cafe Pro</h3>
-                    <p>Modern cafe management system with real-time analytics</p>
+                <div class="project-card reveal">
+                    <div class="project-header ai">
+                        <span class="project-icon">&#129504;</span>
+                    </div>
+                    <div class="project-body">
+                        <h3>LevelUp AI</h3>
+                        <p>AI-powered learning platform with personalized recommendations, progress tracking and skill analytics.</p>
+                        <div class="project-tech">
+                            <span>React</span>
+                            <span>TypeScript</span>
+                            <span>AI APIs</span>
+                            <span>Tailwind</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="project-card">
-                    <img src="assets/projects/mediq-ai.png" alt="MediQ AI">
-                    <h3>MediQ AI</h3>
-                    <p>Healthcare intelligence platform for medical professionals</p>
+                <div class="project-card reveal">
+                    <div class="project-header health">
+                        <span class="project-icon">&#127973;</span>
+                    </div>
+                    <div class="project-body">
+                        <h3>MediQ AI</h3>
+                        <p>Intelligent hospital queue management with waiting time prediction, bed availability and doctor scheduling.</p>
+                        <div class="project-tech">
+                            <span>React</span>
+                            <span>Node.js</span>
+                            <span>AI</span>
+                            <span>MongoDB</span>
+                        </div>
+                    </div>
                 </div>
-                <div class="project-card">
-                    <img src="assets/projects/mindease.png" alt="MindEase">
-                    <h3>MindEase</h3>
-                    <p>Mental wellness application with personalized recommendations</p>
+                <div class="project-card reveal">
+                    <div class="project-header wellness">
+                        <span class="project-icon">&#10084;</span>
+                    </div>
+                    <div class="project-body">
+                        <h3>MindEase</h3>
+                        <p>AI-powered wellness assistant for supportive conversations, wellness tracking and personalized insights.</p>
+                        <div class="project-tech">
+                            <span>React</span>
+                            <span>Node.js</span>
+                            <span>AI</span>
+                            <span>MongoDB</span>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <!-- Contact Section -->
     <section id="contact" class="contact">
         <div class="container">
-            <h2>Let's Work Together</h2>
-            <p class="contact-subtitle">Have a project in mind? Let's create something amazing</p>
-            <button class="cta-btn cta-btn-large">Start a Project</button>
+            <h2 class="section-title reveal">Let's Work Together</h2>
+            <p class="contact-subtitle reveal">Have a project in mind? Let's create something amazing.</p>
+            <div class="contact-links reveal">
+                <a href="mailto:balas111005@gmail.com" class="contact-btn">
+                    <span class="contact-icon">&#9993;</span>
+                    Email Me
+                </a>
+                <a href="https://www.linkedin.com/in/balas111005" target="_blank" class="contact-btn">
+                    <span class="contact-icon">in</span>
+                    LinkedIn
+                </a>
+                <a href="https://github.com/Balachandransakthivel" target="_blank" class="contact-btn">
+                    <span class="contact-icon">GH</span>
+                    GitHub
+                </a>
+                <a href="https://im-bala-portfolio.vercel.app" target="_blank" class="contact-btn">
+                    <span class="contact-icon">&#9733;</span>
+                    Portfolio
+                </a>
+            </div>
         </div>
     </section>
 
-    <!-- Footer -->
     <footer class="footer">
         <div class="container">
-            <p>&copy; 2024 Balachandran Sakthivel. All rights reserved.</p>
+            <p>&copy; 2026 Balachandran S. Built with passion.</p>
         </div>
     </footer>
 
