@@ -1,173 +1,68 @@
-# 👋 Hi, I'm Balachandran S
+<!-- ===================================================== -->
+<!--                    HERO SECTION                       -->
+<!-- ===================================================== -->
 
-### 🚀 Full Stack Developer | React • TypeScript • Node.js | AI & Software Engineering Enthusiast
+<div align="center">
 
-🎓 Final Year B.E. Computer Science and Engineering Student at **Excel Engineering College**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,40:0f172a,70:0f766e,100:06b6d4&height=230&section=header&text=BALACHANDRAN%20S&fontSize=52&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%7C%20AI%20ENTHUSIAST&descAlignY=58&descSize=17&descColor=cbd5e1"/>
 
-I enjoy building **scalable web applications, AI-powered solutions, mobile apps, and modern user experiences**.
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js+%E2%9A%A1;AI+%26+Software+Engineering+Enthusiast+%F0%9F%A4%96;Building+Real-World+Applications+%F0%9F%9A%80;Final+Year+CSE+Student+%F0%9F%8E%93"/>
 
-## 🧑‍💻 About Me
+<br>
 
-- 🎓 B.E. Computer Science & Engineering
-- 💻 Full Stack Developer
-- 🤖 Interested in AI & Prompt Engineering
-- 📱 Exploring Mobile App Development
-- ☁️ Interested in Cloud Computing
-- 🎨 UI/UX Design enthusiast
-- 🚀 Building real-world software projects
-- 💼 Open to Software Developer & Full Stack opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### ☁️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### ☕ Cafe Pro — Premium Indian Food Cafe Billing System
-
-A modern web-based cafe management and billing platform designed for Indian food cafes.
-
-**Features:**
-- 🧾 Smart Billing & Order Management
-- 🍽️ Menu Management
-- 📦 Inventory Tracking
-- 📱 QR Table Ordering
-- 👨‍🍳 Chef View
-- 👨‍💼 Owner Dashboard
-- 🤖 AI Demand Prediction
-- 📊 Sales Analytics
-- 💰 Happy Hour Pricing
-- 🔔 Smart Notifications
-- ⭐ QR Feedback System
-
-**Tech:** React • TypeScript • Node.js • Express • MongoDB • AI
-
-🔗 [View Project](https://cafesoftware.vercel.app/)
-
-🔗 [GitHub Repository](https://github.com/Balachandransakthivel/cafesoftware)
-
----
-
-### 🧠 CogniLearn
-
-**AI-Based Cognitive Learning Pattern Analyzer**
-
-An intelligent learning platform designed to analyze learning patterns and provide personalized insights.
-
-**Tech:** React • Python • AI • Data Analytics
-
-🔗 [GitHub Repository](https://github.com/Balachandransakthivel/CogniLearn)
-
----
-
-### 🏛️ PetitionAI
-
-**AI-Powered Grievance Management & Citizen Support System**
-
-A platform designed to simplify grievance submission, classification, tracking, and citizen support using AI.
-
-**Tech:** React • TypeScript • FastAPI • Python • MongoDB • Gemini AI
-
----
-
-## 🏆 Experience & Activities
-
-- 💻 Mobile App Development Intern — ALO Info-Tech
-- 📊 Data Analytics Internship — TechAmrex
-- 👨‍💻 Software Development Experience — StartUp Innovations
-- 🏆 Student Coordinator — HACKEX ’26
-- 🚀 Hackathon & Innovation Project Participant
-
----
-
-## 📜 Certifications
-
-- 🎓 NPTEL — Database Management Systems
-- 🐍 TCS iON — Python
-- ⚛️ Meta — Front-End Development
-- 🔐 Google — Automate Cybersecurity Tasks with Python
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<p>
+<a href="https://github.com/Balachandransakthivel">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/balas111005">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://im-bala-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
----
+<br>
 
-## 🔥 GitHub Streak
+<img src="https://komarev.com/ghpvc/?username=Balachandransakthivel&label=PROFILE%20VIEWS&color=06b6d4&style=for-the-badge"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Balachandransakthivel&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ===================================================== -->
+<!--                     ABOUT ME                          -->
+<!-- ===================================================== -->
 
-<p align="left">
-  <a href="https://github.com/Balachandransakthivel">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/balas111005">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://im-bala-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+<h2 align="center">✨ About Me</h2>
 
----
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## 💡 Currently Learning
+### 👨‍💻 Who Am I?
 
-```text
-Full Stack Development
-        ↓
-React + TypeScript
-        ↓
-Node.js + Express
-        ↓
-MongoDB + PostgreSQL
-        ↓
-AI Integration
-        ↓
-Cloud & Scalable Applications
+```yaml
+name: Balachandran S
+role: Full Stack Developer
+education: B.E. Computer Science
+college: Excel Engineering College
+
+location: Tamil Nadu, India
+
+focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Mobile Development
+  - Cloud Computing
+  - UI/UX Design
+
+currently:
+  - Building real-world applications
+  - Learning advanced development
+  - Exploring AI integration
+  - Preparing for software roles
