@@ -1,406 +1,173 @@
-<div align="center">
+# 👋 Hi, I'm Balachandran S
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+### 🚀 Full Stack Developer | React • TypeScript • Node.js | AI & Software Engineering Enthusiast
 
-<!--                         HERO SECTION                          -->
+🎓 Final Year B.E. Computer Science and Engineering Student at **Excel Engineering College**
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0f172a,75:0369a1,100:00C2FF&height=250&section=header&text=BALACHANDRAN%20S&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20ENTHUSIAST%20%E2%80%A2%20CSE%20ENGINEER&descAlignY=57&descSize=17&descColor=7DD3FC" width="100%"/>
-
-<br>
-
-<!-- 👨‍💻 DEVELOPER AVATAR -->
-
-<img src="./assets/avatar.png" width="190" alt="Balachandran Developer Avatar"/>
-
-<br><br>
-
-# 👋 Hey, I'm **Balachandran S**
-
-### `Full Stack Developer` • `AI Enthusiast` • `Software Engineer in Progress`
-
-<p>
-I build <b>modern web applications</b>, <b>AI-powered systems</b> and
-<b>digital experiences</b> that turn ideas into real-world products.
-</p>
-
-<br>
-
-<!-- TYPING EFFECT -->
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=2800&pause=800&color=00C2FF&center=true&vCenter=true&width=760&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;AI+Powered+Application+Builder+%F0%9F%A4%96;React+%7C+Node.js+%7C+TypeScript;Turning+Ideas+into+Real+Products;Always+Learning.+Always+Building." />
-
-<br><br>
-
-<!-- SOCIAL BUTTONS -->
-
-<a href="https://im-bala-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-00C2FF?style=for-the-badge&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/balas111005">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/Balachandransakthivel">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:balas111005@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Balachandransakthivel&label=PROFILE%20VIEWS&color=00C2FF&style=flat-square" alt="Profile Views"/>
-
-</div>
+I enjoy building **scalable web applications, AI-powered solutions, mobile apps, and modern user experiences**.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🧑‍💻 About Me
 
-<!--                         ABOUT ME                              -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-# 🧑‍💻 About Me
-
-<img align="right" src="./assets/coding-character.gif" width="300" alt="Coding Animation"/>
-
-🎓 **Final Year B.E. Computer Science & Engineering Student**
-
-🏫 **Excel Engineering College (Autonomous)**
-
-💻 I love transforming ideas into **functional, scalable and beautiful software**.
-
-🤖 Currently exploring the intersection of **Artificial Intelligence + Full Stack Development**.
-
-🚀 My goal is to build products that solve **real-world problems**, not just projects that look good on a screen.
-
-### ⚡ My Focus
-
-* 🌐 Full Stack Web Applications
-* 🤖 AI-Powered Applications
-* 🧠 Intelligent Systems
-* 🎨 UI/UX & Product Design
-* 🔌 REST APIs & Backend Architecture
-* 🗄️ Database Architecture
-* ☁️ Cloud Deployment
-* 🚀 Product Development
-
-<br clear="right"/>
+- 🎓 B.E. Computer Science & Engineering
+- 💻 Full Stack Developer
+- 🤖 Interested in AI & Prompt Engineering
+- 📱 Exploring Mobile App Development
+- ☁️ Interested in Cloud Computing
+- 🎨 UI/UX Design enthusiast
+- 🚀 Building real-world software projects
+- 💼 Open to Software Developer & Full Stack opportunities
 
 ---
 
-# 🧠 Currently Exploring
+## 🛠️ Tech Stack
 
-<div align="center">
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-|          🔥 Domain         | 🚀 Technologies                                      |
-| :------------------------: | :--------------------------------------------------- |
-|         ⚛️ Frontend        | React • Next.js • TypeScript • Vite • Tailwind       |
-|         🟢 Backend         | Node.js • Express • FastAPI • REST APIs              |
-| 🤖 Artificial Intelligence | AI APIs • LLM Integration • Intelligent Applications |
-|        🗄️ Database        | MongoDB • PostgreSQL • MySQL • Supabase              |
-|          ☁️ Cloud          | Vercel • Netlify • Cloud Services                    |
-|          🎨 Design         | Figma • UI/UX • Design Systems                       |
-|       🛠️ Development      | Git • GitHub • VS Code • Postman                     |
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-</div>
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-# 🛠️ Tech Arsenal
-
-### 👨‍💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript&perline=5"/>
-</p>
-
-### ⚛️ Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind&perline=6"/>
-</p>
-
-### 🟢 Backend & APIs
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perline=5"/>
-</p>
-
-### 🤖 AI & Intelligent Systems
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&perline=5"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase&perline=6"/>
-</p>
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### ☁️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### ☕ Cafe Pro — Premium Indian Food Cafe Billing System
+
+A modern web-based cafe management and billing platform designed for Indian food cafes.
+
+**Features:**
+- 🧾 Smart Billing & Order Management
+- 🍽️ Menu Management
+- 📦 Inventory Tracking
+- 📱 QR Table Ordering
+- 👨‍🍳 Chef View
+- 👨‍💼 Owner Dashboard
+- 🤖 AI Demand Prediction
+- 📊 Sales Analytics
+- 💰 Happy Hour Pricing
+- 🔔 Smart Notifications
+- ⭐ QR Feedback System
+
+**Tech:** React • TypeScript • Node.js • Express • MongoDB • AI
+
+🔗 [View Project](https://cafesoftware.vercel.app/)
+
+🔗 [GitHub Repository](https://github.com/Balachandransakthivel/cafesoftware)
+
+---
+
+### 🧠 CogniLearn
+
+**AI-Based Cognitive Learning Pattern Analyzer**
+
+An intelligent learning platform designed to analyze learning patterns and provide personalized insights.
+
+**Tech:** React • Python • AI • Data Analytics
+
+🔗 [GitHub Repository](https://github.com/Balachandransakthivel/CogniLearn)
+
+---
+
+### 🏛️ PetitionAI
+
+**AI-Powered Grievance Management & Citizen Support System**
+
+A platform designed to simplify grievance submission, classification, tracking, and citizen support using AI.
+
+**Tech:** React • TypeScript • FastAPI • Python • MongoDB • Gemini AI
+
+---
+
+## 🏆 Experience & Activities
+
+- 💻 Mobile App Development Intern — ALO Info-Tech
+- 📊 Data Analytics Internship — TechAmrex
+- 👨‍💻 Software Development Experience — StartUp Innovations
+- 🏆 Student Coordinator — HACKEX ’26
+- 🚀 Hackathon & Innovation Project Participant
+
+---
+
+## 📜 Certifications
+
+- 🎓 NPTEL — Database Management Systems
+- 🐍 TCS iON — Python
+- ⚛️ Meta — Front-End Development
+- 🔐 Google — Automate Cybersecurity Tasks with Python
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify&perline=7"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🔥 GitHub Streak
 
-<div align="center">
-
-## 🍽️ Cafe Pro
-
-### **Smart Cafe Billing & Management Platform**
-
-</div>
-
-> A modern restaurant management ecosystem built for Indian cafés, combining billing, inventory, ordering and intelligent analytics.
-
-### ✨ Highlights
-
-| Feature            | Description                           |
-| ------------------ | ------------------------------------- |
-| 🧾 Smart Billing   | Fast digital billing system           |
-| 🍴 Menu Management | Manage products, categories & pricing |
-| 📦 Inventory       | Track stock & availability            |
-| 📊 Analytics       | Sales and business insights           |
-| 📱 QR Ordering     | Table-based digital ordering          |
-| 👨‍🍳 Kitchen      | Chef order management                 |
-| 💳 Payments        | Digital payment integration           |
-| 🤖 AI              | Demand prediction & insights          |
-
-**Stack**
-
-`React` `TypeScript` `Tailwind CSS` `Supabase` `Vite`
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Balachandransakthivel&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-<div align="center">
+## 🌐 Connect With Me
 
-## 🧠 LevelUp AI
-
-### **Personalized AI Learning Platform**
-
-</div>
-
-> An intelligent learning platform designed to help students discover skills, track progress and receive personalized learning guidance.
-
-### ✨ Highlights
-
-* 🤖 AI-powered learning assistance
-* 📚 Personalized learning paths
-* 🎯 Skill recommendations
-* 📈 Progress tracking
-* 🧠 Intelligent feedback
-* 📊 Learning analytics
-
-**Stack**
-
-`React` `TypeScript` `AI APIs` `Tailwind CSS`
+<p align="left">
+  <a href="https://github.com/Balachandransakthivel">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/balas111005">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://im-bala-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
-
-## ❤️ MindEase
-
-### **AI Wellness Companion**
-
-</div>
-
-> A supportive AI-powered platform focused on meaningful conversations, personal tracking and positive digital experiences.
-
-### ✨ Highlights
-
-* 💬 AI conversations
-* 📊 Personal tracking
-* 🧠 Intelligent interactions
-* 🔐 Authentication
-* 📈 Progress monitoring
-* 🎨 Modern user experience
-
-**Stack**
-
-`React` `Node.js` `AI` `MongoDB`
-
----
-
-<div align="center">
-
-## 🏥 MediQ AI
-
-### **Intelligent Hospital Queue & Resource Management**
-
-</div>
-
-> An AI-powered hospital management concept designed to improve patient flow, resource utilization and operational decision-making.
-
-### 🤖 Intelligent Features
-
-* ⏱️ Waiting-time prediction
-* 👨‍⚕️ Doctor schedule optimization
-* 🚨 Emergency prioritization
-* 🛏️ Bed availability prediction
-* 💊 Medicine stock forecasting
-* 📊 Hospital analytics
-
-**Stack**
-
-`React` `Node.js` `AI` `MongoDB`
-
----
-
-# 🎯 What I'm Building
+## 💡 Currently Learning
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     CURRENT MISSION                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│   💻 Full Stack Development                                  │
-│          ↓                                                   │
-│   🤖 Artificial Intelligence                                 │
-│          ↓                                                   │
-│   🧠 Intelligent Applications                                │
-│          ↓                                                   │
-│   🚀 Real-World Products                                     │
-│          ↓                                                   │
-│   🌍 Meaningful Digital Experiences                          │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-> **Code → Build → Learn → Improve → Repeat 🔁**
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Balachandransakthivel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Balachandransakthivel&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balachandransakthivel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Balachandransakthivel&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Balachandransakthivel/Balachandransakthivel/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
-# 🧊 3D Contribution Graph
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D GitHub Contribution Graph"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Balachandransakthivel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
-
-</div>
-
----
-
-# 🧭 Developer Journey
-
-<div align="center">
-
-```text
-                    🚀 MY JOURNEY
-
-2021  ────────────── 💡 Started Programming
-  │
-2022  ────────────── 🌐 Discovered Web Development
-  │
-2023  ────────────── ⚛️ React & Full Stack
-  │
-2024  ────────────── 🤖 AI & Intelligent Applications
-  │
-2025  ────────────── 🚀 Advanced Projects
-  │
-2026  ────────────── 🎓 Final Year • Building • Growing
-  │
-  ▼
-2027+ ────────────── 💻 SOFTWARE ENGINEER
-```
-
-</div>
-
----
-
-# 💡 Developer Mindset
-
-<div align="center">
-
-### **"Don't just write code. Build something that matters."**
-
-<br>
-
-`Learn` → `Build` → `Break` → `Fix` → `Improve` → `Ship` 🚀
-
-</div>
-
----
-
-# 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://im-bala-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-00C2FF?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/balas111005">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/Balachandransakthivel">
-<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge"/>
-</a>
-
-<a href="mailto:balas111005@gmail.com">
-<img src="https://img.shields.io/badge/📩%20EMAIL-EA4335?style=for-the-badge"/>
-</a>
-
-<br><br>
-
-### ⭐ If you like my work, consider giving my repositories a star!
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:0369a1,100:020617&height=120&section=footer"/>
-
-</div>
+Full Stack Development
+        ↓
+React + TypeScript
+        ↓
+Node.js + Express
+        ↓
+MongoDB + PostgreSQL
+        ↓
+AI Integration
+        ↓
+Cloud & Scalable Applications
